@@ -17,7 +17,7 @@ Have a solid and extensible product, allowing community members to upload & inst
 
 ### What is the very-near-future goal of Sailor?
 
-Have a minimum viable product that is production ready, release a version 1.0 and get users within the Lua community.
+Have a minimum viable product that is production ready, specially on its use within Nginx, release a version 1.0 and get users within the Lua community.
 
 ### Why use Lua in web development?
 
