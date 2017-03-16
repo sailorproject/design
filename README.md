@@ -1,7 +1,7 @@
 # Sailor's Design
 Documents and discussions about the design of Sailor
 
-##FAQ
+## FAQ
 
 ### What is the purpose of this repository?
 
